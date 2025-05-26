@@ -17,4 +17,4 @@ Disclaimer: I am putting these here retroactively to showcase the sort of work I
 - And use equations detailed here: arxiv.org/pdf/1805.05164.pdf 
 - We simulate mass loss rates for stars using Reimers formula and the Van Loon equation and comparing them to simulated mass losses from DARWIN.
 
-![Figure 2](Images/astr_figure1.png)
+![Figure 2](Images/astr_figure2.png)
